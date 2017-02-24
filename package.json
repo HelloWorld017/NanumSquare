@@ -1,0 +1,23 @@
+{
+  "name": "typeface-nanum-square",
+  "version": "1.0.0",
+  "description": "A hangul font created by nhn for title.",
+  "main": "nanumsquare.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloWorld017/NanumSquare.git"
+  },
+  "keywords": [
+    "nanum",
+    "nanumsquare"
+  ],
+  "author": "Naver",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/HelloWorld017/NanumSquare/issues"
+  },
+  "homepage": "https://github.com/HelloWorld017/NanumSquare#readme"
+}
