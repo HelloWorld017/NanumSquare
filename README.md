@@ -1,6 +1,8 @@
 # NanumSquare Web Fonts
 
 Web Font Version of NanumSquare. Created by [NAVER](http://www.naver.com).
+Forked from [hiun/NanumSquare](https://github.com/hiun/NanumSquare)
+and [moonspam/NanumSquare](https://github.com/moonspam/NanumSquare).
 
 ## Weights
 

@@ -4,6 +4,18 @@
  * Copyright (c) 2010, NAVER Corporation (http://www.nhncorp.com) 
  */
  
+ @font-face {
+  font-family: 'Nanum Square';
+  font-weight: 300;
+  src: url(NanumSquareL.eot);
+  src: local('Nanum Square Light'),
+       local('NanumSquareL'),
+       url(NanumSquareL.eot?#iefix) format('embedded-opentype'),
+	   url(NanumSquareL.woff2) format('woff2'),
+       url(NanumSquareL.woff) format('woff'),
+       url(NanumSquareL.ttf) format('truetype');
+}
+
 @font-face {
   font-family: 'Nanum Square';
   font-style: normal;
@@ -28,4 +40,16 @@
        url(./NanumSquareB.woff2) format('woff2'),
        url(./NanumSquareB.woff) format('woff'),
        url(./NanumSquareB.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nanum Square';
+  font-weight: 700;
+  src: url(./NanumSquareEB.eot);
+  src: local('Nanum Square ExtraBold'),
+       local('NanumSquareEB'),
+       url(./NanumSquareEB.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareEB.woff2) format('woff2'),
+       url(./NanumSquareEB.woff) format('woff'),
+       url(./NanumSquareEB.ttf) format('truetype');
 }
