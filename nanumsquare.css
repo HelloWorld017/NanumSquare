@@ -10,10 +10,10 @@
   src: url(NanumSquareL.eot);
   src: local('Nanum Square Light'),
        local('NanumSquareL'),
-       url(NanumSquareL.eot?#iefix) format('embedded-opentype'),
-	   url(NanumSquareL.woff2) format('woff2'),
-       url(NanumSquareL.woff) format('woff'),
-       url(NanumSquareL.ttf) format('truetype');
+       url(./NanumSquareL.eot?#iefix) format('embedded-opentype'),
+	   url(./NanumSquareL.woff2) format('woff2'),
+       url(./NanumSquareL.woff) format('woff'),
+       url(./NanumSquareL.ttf) format('truetype');
 }
 
 @font-face {
